@@ -37,6 +37,5 @@ dependencies {
     implementation 'androidx.swiperefreshlayout:swiperefreshlayout:1.1.0'
 
     // aamarPay Library
-    implementation 'com.github.rafathossain96:aamarPay-Android-Library:beta-1.8'
-
+    implementation 'com.github.rafathossain96:aamarPay-Android-Library:1.0'
 }
