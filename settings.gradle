@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "aamarPay Payment Gateway Android Sample"
